@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-18T01:11:59.224Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36 OPR/70.0.3728.178" etag="inejLM4b_V7Zx4mE7yrM" version="13.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-18T01:15:14.648Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36 OPR/70.0.3728.178" etag="ReXK4eMB3vtgQvE7kIBN" version="13.7.3" type="github">
   <diagram name="Page-1" id="42789a77-a242-8287-6e28-9cd8cfd52e62">
-    <mxGraphModel dx="3184" dy="1050" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="1">
+    <mxGraphModel dx="2442" dy="525" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -69,24 +69,11 @@
             <mxPoint x="-410.27979131633833" y="260.2325252957173" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oe6LMG_6if38MMG878lX-28" style="edgeStyle=none;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=12;fillColor=#e1d5e7;strokeColor=#1A1A1A;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="oe6LMG_6if38MMG878lX-10" target="oe6LMG_6if38MMG878lX-29">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-588" y="662" as="sourcePoint" />
-            <mxPoint x="-605" y="682" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="oe6LMG_6if38MMG878lX-29" value="Interration with the user, to choose the operation options and display the current temperature along with the chosen set-point on the screen" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-738" y="652" width="177.5" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="oe6LMG_6if38MMG878lX-30" style="edgeStyle=none;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=12;fillColor=#e1d5e7;strokeColor=#1A1A1A;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oe6LMG_6if38MMG878lX-11" target="oe6LMG_6if38MMG878lX-31">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-431" y="592" as="sourcePoint" />
-            <mxPoint x="-431" y="702" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
+          <mxGeometry x="-869" y="638" width="177.5" height="90" as="geometry" />
         </mxCell>
         <mxCell id="oe6LMG_6if38MMG878lX-31" value="Servo operation for the vertical movement of the solenoid valve" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-480.5" y="652" width="177.5" height="90" as="geometry" />
+          <mxGeometry x="-357" y="638" width="177.5" height="90" as="geometry" />
         </mxCell>
         <mxCell id="oe6LMG_6if38MMG878lX-33" style="edgeStyle=none;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=12;fillColor=#e1d5e7;strokeColor=#1A1A1A;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -136,6 +123,18 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-758" y="502" as="sourcePoint" />
             <mxPoint x="-798" y="412" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oe6LMG_6if38MMG878lX-45" style="edgeStyle=none;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=12;strokeColor=#1A1A1A;exitX=0.733;exitY=0.96;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.208;entryY=-0.011;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="oe6LMG_6if38MMG878lX-11" target="oe6LMG_6if38MMG878lX-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-343" y="611" as="sourcePoint" />
+            <mxPoint x="-267.5894605016713" y="712.414003766487" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oe6LMG_6if38MMG878lX-46" style="edgeStyle=none;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=12;fillColor=#e1d5e7;strokeColor=#1A1A1A;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="oe6LMG_6if38MMG878lX-10" target="oe6LMG_6if38MMG878lX-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-744" y="614" as="sourcePoint" />
+            <mxPoint x="-826.6029411764705" y="716.9411764705883" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
